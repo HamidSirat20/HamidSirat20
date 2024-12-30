@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Abdul Hamid Eshaqzada</h1>
+<h1 align="center">Hi 👋, I'm Hamid Eshaqzada</h1>
 <h3 align="center">A passionate junior full stack developer</h3>
 
 
