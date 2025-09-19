@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamidsirat20" alt="hamidsirat20" /></a> </p>
 
-- 🌱 I’m currently learning **C#**
-
 - 👨‍💻 All of my projects are available at [https://github.com/HamidSirat20](https://github.com/HamidSirat20)
 
 - 📫 How to reach me **abeshaqzada@gmail.com**
